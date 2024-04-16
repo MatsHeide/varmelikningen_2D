@@ -72,6 +72,3 @@ anim = FuncAnimation(fig, animate, frames=max_iter_time, interval=50)
 
 
 plt.show()
-
-
-# anim.save("heat_Equation_Solution.mp4", writer='ffmpeg')
